@@ -1,0 +1,149 @@
+2025-07-14 14:04:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\Music\Reports etc\Z_MyFramework\ItLisners.xml
+
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\AppData\Local\Temp\testng-eclipse--465196444\testng-customsuite.xml
+
+2025-07-14 14:05:08 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-14 14:05:08 INFO  Facebook_DataDriven:19 - ----- Logs started for Facebook Login Test -----
+2025-07-14 14:05:09 INFO  Facebook_DataDriven:23 - Driver initialized
+2025-07-14 14:05:09 INFO  Facebook_DataDriven:25 - Navigated to Facebook
+2025-07-14 14:05:09 INFO  Facebook_DataDriven:30 - === Executing login test with: 4pradeep4@gmail.com | soumyashree ===
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:33 - Entered email: 4pradeep4@gmail.com
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:36 - Entered password.
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:39 - Clicked login button
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:30 - === Executing login test with: abc@gmail.com | kakd ===
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:30 - === Executing login test with: fff@gmail.com | jhhj ===
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:30 - === Executing login test with:  |  ===
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:10 INFO  Facebook_DataDriven:52 - Closing browser after all tests
+2025-07-14 14:05:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@22d1886d: 31 ms
+2025-07-14 14:05:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a7761b1: 0 ms
+2025-07-14 14:05:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@70abf9b0: 22 ms
+2025-07-14 14:05:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@a64e035: 7 ms
+2025-07-14 14:05:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1f443fae: 6 ms
+2025-07-14 14:05:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ba6fe6: 0 ms
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:05:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\AppData\Local\Temp\testng-eclipse-1992979603\testng-customsuite.xml
+
+2025-07-14 14:05:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-14 14:05:16 INFO  Facebook_DataDriven:19 - ----- Logs started for Facebook Login Test -----
+2025-07-14 14:05:17 INFO  Facebook_DataDriven:23 - Driver initialized
+2025-07-14 14:05:18 INFO  Facebook_DataDriven:25 - Navigated to Facebook
+2025-07-14 14:05:18 INFO  Facebook_DataDriven:30 - === Executing login test with: 4pradeep4@gmail.com | soumyashree ===
+2025-07-14 14:05:18 INFO  Facebook_DataDriven:33 - Entered email: 4pradeep4@gmail.com
+2025-07-14 14:05:18 INFO  Facebook_DataDriven:36 - Entered password.
+2025-07-14 14:05:18 INFO  Facebook_DataDriven:39 - Clicked login button
+2025-07-14 14:05:18 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:30 - === Executing login test with: abc@gmail.com | kakd ===
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:30 - === Executing login test with: fff@gmail.com | jhhj ===
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:30 - === Executing login test with:  |  ===
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:05:21 INFO  Facebook_DataDriven:52 - Closing browser after all tests
+2025-07-14 14:05:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@22d1886d: 36 ms
+2025-07-14 14:05:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a7761b1: 7 ms
+2025-07-14 14:05:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@70abf9b0: 9 ms
+2025-07-14 14:05:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@a64e035: 4 ms
+2025-07-14 14:05:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1f443fae: 4 ms
+2025-07-14 14:05:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ba6fe6: 0 ms
+2025-07-14 14:06:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\Music\Reports etc\Z_MyFramework\ITestList.xml
+
+2025-07-14 14:06:15 INFO  Facebook_DataDriven:19 - ----- Logs started for Facebook Login Test -----
+2025-07-14 14:06:16 INFO  Facebook_DataDriven:23 - Driver initialized
+2025-07-14 14:06:17 INFO  Facebook_DataDriven:25 - Navigated to Facebook
+2025-07-14 14:06:17 INFO  Facebook_DataDriven:30 - === Executing login test with: 4pradeep4@gmail.com | soumyashree ===
+2025-07-14 14:06:17 INFO  Facebook_DataDriven:33 - Entered email: 4pradeep4@gmail.com
+2025-07-14 14:06:17 INFO  Facebook_DataDriven:36 - Entered password.
+2025-07-14 14:06:17 INFO  Facebook_DataDriven:39 - Clicked login button
+2025-07-14 14:06:17 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:30 - === Executing login test with: abc@gmail.com | kakd ===
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:30 - === Executing login test with: fff@gmail.com | jhhj ===
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:30 - === Executing login test with:  |  ===
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:06:21 INFO  Facebook_DataDriven:52 - Closing browser after all tests
+2025-07-14 14:10:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\Music\Reports etc\Z_MyFramework\ITestList.xml
+
+2025-07-14 14:10:58 INFO  Facebook_DataDriven:19 - ----- Logs started for Facebook Login Test -----
+2025-07-14 14:10:59 INFO  Facebook_DataDriven:23 - Driver initialized
+2025-07-14 14:10:59 INFO  Facebook_DataDriven:25 - Navigated to Facebook
+2025-07-14 14:10:59 INFO  Facebook_DataDriven:30 - === Executing login test with: 4pradeep4@gmail.com | soumyashree ===
+2025-07-14 14:11:00 INFO  Facebook_DataDriven:33 - Entered email: 4pradeep4@gmail.com
+2025-07-14 14:11:00 INFO  Facebook_DataDriven:36 - Entered password.
+2025-07-14 14:11:00 INFO  Facebook_DataDriven:39 - Clicked login button
+2025-07-14 14:11:00 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:30 - === Executing login test with: abc@gmail.com | kakd ===
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:30 - === Executing login test with: fff@gmail.com | jhhj ===
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:30 - === Executing login test with:  |  ===
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:46 - Clearing cookies after test
+2025-07-14 14:11:02 INFO  Facebook_DataDriven:52 - Closing browser after all tests
