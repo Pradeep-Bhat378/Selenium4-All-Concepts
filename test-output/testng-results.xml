@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-14T14:37:53 IST" name="Default suite" finished-at="2025-07-14T14:37:58 IST" duration-ms="4798">
+  <suite started-at="2025-07-14T15:22:44 IST" name="Default suite" finished-at="2025-07-14T15:22:49 IST" duration-ms="4859">
     <groups>
     </groups>
-    <test started-at="2025-07-14T14:37:53 IST" name="Default test" finished-at="2025-07-14T14:37:58 IST" duration-ms="4798">
-      <class name="ScreenShot.ScreenShot">
-        <test-method signature="a1()[pri:0, instance:ScreenShot.ScreenShot@5d12a356]" started-at="2025-07-14T14:37:53 IST" name="a1" finished-at="2025-07-14T14:37:58 IST" duration-ms="4615" status="PASS">
+    <test started-at="2025-07-14T15:22:44 IST" name="Default test" finished-at="2025-07-14T15:22:49 IST" duration-ms="4859">
+      <class name="ScreenShot.ScreenShot2">
+        <test-method signature="a1()[pri:0, instance:ScreenShot.ScreenShot2@6d1ef78d]" started-at="2025-07-14T15:22:44 IST" name="a1" finished-at="2025-07-14T15:22:49 IST" duration-ms="4574" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a1 -->
-        <test-method is-config="true" signature="a2()[pri:0, instance:ScreenShot.ScreenShot@5d12a356]" started-at="2025-07-14T14:37:58 IST" name="a2" finished-at="2025-07-14T14:37:58 IST" duration-ms="158" status="PASS">
+        <test-method is-config="true" signature="a2()[pri:0, instance:ScreenShot.ScreenShot2@6d1ef78d]" started-at="2025-07-14T15:22:49 IST" name="a2" finished-at="2025-07-14T15:22:49 IST" duration-ms="243" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a2 -->
-      </class> <!-- ScreenShot.ScreenShot -->
+      </class> <!-- ScreenShot.ScreenShot2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

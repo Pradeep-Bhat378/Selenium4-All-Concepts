@@ -13,22 +13,25 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
+import Utils.Generic;
 
-public class ScreenShot {
 
-	WebDriver driver;
-    String timestamp; 
+public class ScreenShot2 {
+
+	public WebDriver driver;
+   public  String timestamp;
+    public Generic ge;
+    
 	
 	@Test
 	public void a1() throws IOException {
+		ge =  new Generic();
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://omayo.blogspot.com/");
 		
-		timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
 
-		
-		
+		ge.getScreenshot(driver);
 		
 	}
 
