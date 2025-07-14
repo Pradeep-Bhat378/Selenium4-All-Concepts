@@ -26,11 +26,10 @@ public class BaseClass {
 
 		return p;
 	}
-	
-	public static Logger getLogger() 
-	{		
 
-		logger=LogManager.getLogger(); //Log4j
+	public static Logger getLogger() {
+
+		logger = LogManager.getLogger(); // Log4j
 		return logger;
 	}
 
@@ -59,12 +58,13 @@ public class BaseClass {
 
 		}
 		if (driver != null) {
-           driver.manage().deleteAllCookies();
-           driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+			driver.manage().deleteAllCookies();
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+			driver.manage().window().maximize();
+
 		}
 
 		return driver;
 	}
-	
-	
+
 }
