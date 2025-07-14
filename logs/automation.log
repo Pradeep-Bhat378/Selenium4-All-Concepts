@@ -147,3 +147,83 @@
 2025-07-14 14:11:02 INFO  Facebook_DataDriven:30 - === Executing login test with:  |  ===
 2025-07-14 14:11:02 INFO  Facebook_DataDriven:46 - Clearing cookies after test
 2025-07-14 14:11:02 INFO  Facebook_DataDriven:52 - Closing browser after all tests
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:33:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\AppData\Local\Temp\testng-eclipse-1056261574\testng-customsuite.xml
+
+2025-07-14 14:33:05 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-14 14:33:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@a619c2: 46 ms
+2025-07-14 14:33:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1813f3e9: 3 ms
+2025-07-14 14:33:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4d847d32: 0 ms
+2025-07-14 14:33:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@18fdb6cf: 0 ms
+2025-07-14 14:33:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4463d9d3: 13 ms
+2025-07-14 14:33:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@43b0ade: 0 ms
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-14 14:37:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\prade\AppData\Local\Temp\testng-eclipse-1376198636\testng-customsuite.xml
+
+2025-07-14 14:37:53 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-14 14:37:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1813f3e9: 49 ms
+2025-07-14 14:37:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@56781d96: 2 ms
+2025-07-14 14:37:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@58065f0c: 0 ms
+2025-07-14 14:37:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@61533ae: 0 ms
+2025-07-14 14:37:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1517f633: 14 ms
+2025-07-14 14:37:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4fe01803: 0 ms
