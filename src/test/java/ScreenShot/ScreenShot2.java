@@ -13,19 +13,19 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
-import Utils.Generic;
+import Utils.ScreenShotRelated;
 
 
 public class ScreenShot2 {
 
 	public WebDriver driver;
    public  String timestamp;
-    public Generic ge;
+    public ScreenShotRelated ge;
     
 	
 	@Test
 	public void a1() throws IOException {
-		ge =  new Generic();
+		ge =  new ScreenShotRelated();
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://omayo.blogspot.com/");
